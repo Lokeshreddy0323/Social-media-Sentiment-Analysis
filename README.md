@@ -14,14 +14,11 @@ Sum of Retweets by User.
 Sum of Likes.
 Sum of Retweets.
 Coutn of Hashtags.
-Implement slicers:
-Slicer for pizza category to filter visuals.
-Slicer for order date with a slider for time-based analysis.
-Learnings in this Project:
+## Learnings in this Project: ##
 Data cleaning techniques to ensure data integrity and accuracy.
 identifying and comparing sentiment variations across different social media platforms.
 Visualization techniques to effectively communicate insights.
-Insights from the Project:
+## Insights from the Project: ##
 Twitter shows more frequent sentiment fluctuations compared to Facebook and WhatsApp.
 Higher engagement doesn't always translate to positive sentiment; some highly engaged posts have mixed or negative sentiment.
 Specific hashtags can significantly impact sentiment trends, either amplifying positivity or negativity.
