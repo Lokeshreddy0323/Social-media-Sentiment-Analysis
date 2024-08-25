@@ -8,12 +8,12 @@ Analyze and identify trends in user sentiment towards a brand on social media pl
 2. Visualize insights:
 - Retweets by Year.
 - Sum of Retweets by Hashtags.
-Sum of Retweets by Country.
-Average of Likes by Sentiment.
-Sum of Retweets by User.
-Sum of Likes.
-Sum of Retweets.
-Coutn of Hashtags.
+- Sum of Retweets by Country.
+- Average of Likes by Sentiment.
+- Sum of Retweets by User.
+- Sum of Likes.
+- Sum of Retweets.
+- Coutn of Hashtags.
 ## Learnings in this Project: ##
 Data cleaning techniques to ensure data integrity and accuracy.
 identifying and comparing sentiment variations across different social media platforms.
