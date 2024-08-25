@@ -15,10 +15,10 @@ Analyze and identify trends in user sentiment towards a brand on social media pl
 - Sum of Retweets.
 - Coutn of Hashtags.
 ## Learnings in this Project: ##
--Data cleaning techniques to ensure data integrity and accuracy.
--identifying and comparing sentiment variations across different social media platforms.
--Visualization techniques to effectively communicate insights.
+- Data cleaning techniques to ensure data integrity and accuracy.
+- identifying and comparing sentiment variations across different social media platforms.
+- Visualization techniques to effectively communicate insights.
 ## Insights from the Project: ##
--Twitter shows more frequent sentiment fluctuations compared to Facebook and WhatsApp.
--Higher engagement doesn't always translate to positive sentiment; some highly engaged posts have mixed or negative sentiment.
--Specific hashtags can significantly impact sentiment trends, either amplifying positivity or negativity.
+- Twitter shows more frequent sentiment fluctuations compared to Facebook and WhatsApp.
+- Higher engagement doesn't always translate to positive sentiment; some highly engaged posts have mixed or negative sentiment.
+- Specific hashtags can significantly impact sentiment trends, either amplifying positivity or negativity.
