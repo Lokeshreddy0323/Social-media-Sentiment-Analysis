@@ -5,9 +5,9 @@ Analyze and identify trends in user sentiment towards a brand on social media pl
 
 ## Task List: ##
 1. Import and clean data: Retrieve data from Python and eliminate duplicates, missing values, and blanks.
-2. Visualize insights: ~
-~ Retweets by Year. ~
-Sum of Retweets by Hashtags.
+2. Visualize insights:
+- Retweets by Year.
+- Sum of Retweets by Hashtags.
 Sum of Retweets by Country.
 Average of Likes by Sentiment.
 Sum of Retweets by User.
